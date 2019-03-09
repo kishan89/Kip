@@ -5,3 +5,4 @@ Written in Swift, utilizes Realm Mobile Database
 
 
 ![alt text](https://raw.githubusercontent.com/kishan89/Kip/master/screenshots/accounts.png)
+![alt text](https://raw.githubusercontent.com/kishan89/Kip/master/screenshots/channels.png)
